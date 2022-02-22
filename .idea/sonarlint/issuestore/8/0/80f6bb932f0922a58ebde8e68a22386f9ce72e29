@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Κ­ΐγ
+n	java:S116"TRename this field "heap_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©”¬ώÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(†πώ
+7
+java:S1116K"Remove this empty statement.(τμϊÿÿÿÿ
+S
+java:S1197N"8Move the array designator from the variable to the type.(ΪΖώϊόÿÿÿÿ
+4
+java:S1659a"Declare "k" on a separate line.(Θ‡ό2
+N
+java:S1197`"8Move the array designator from the variable to the type.(μάΎÒ
+M	java:S106c"9Replace this use of System.out or System.err by a logger.(ƒΉ
